@@ -1,4 +1,4 @@
-Welcome ! I'm doco :smirk:
+Welcome ! I'm Do Coppee :smirk:
 ==========================
 
 Junior Web Dev (front-end)
