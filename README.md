@@ -7,7 +7,7 @@ Junior Web Dev (front-end)
 I'm learning to code since November 2022 with the BeCode training (Belgium). In a previous life, I was a teacher, then a researcher in literature. I like reading, writing and creating stuff.
 
 * 🌍  I'm based in Belgium
-* 🧠  I'm learning HTML, CSS, SASS, Tailwind, JS, React
+* 🧠  I'm learning HTML, CSS, SASS, Wordpress, Tailwind, JS, React
 
 ### Skills
 
